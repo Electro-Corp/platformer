@@ -4,6 +4,7 @@
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
+(c)2021 Electro Corp
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
